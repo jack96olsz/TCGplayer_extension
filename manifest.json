@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "TCGPlayer Search Results",
+    "name": "TCGPlayer Extension",
     "version": "1.0",
     "description": "Extension to add search results to a list",
     "permissions": ["activeTab", "storage"],
