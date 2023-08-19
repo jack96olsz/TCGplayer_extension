@@ -1,0 +1,1 @@
+// Background script is not needed for this example
